@@ -1,0 +1,6 @@
+@TiendaCarbAPI_HostAddress = http://localhost:5245
+
+GET {{TiendaCarbAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
